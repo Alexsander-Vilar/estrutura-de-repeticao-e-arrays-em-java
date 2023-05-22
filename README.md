@@ -8,4 +8,8 @@ Exercícios :
 
 *Exercício 2 Consoantes - É criado um array de 6 posições, cada posição e inserida como String,  variável letra, quão são inseridas pelo console utilizando a classe Scanner. Utilizando a estrutura de repetição do-while o operador ternário if que verificara se se as letras inseridas são consoantes. Caso seja consoante será guardada na variável consoante assim como contara no contador. Ao terminar a estrutura de repetição será impresso no console a quantidade de consoantes e as consoantes.
 
-**Exercício 2 Nota - É criada a variável int nota que recebe o valor por meio da classe Scanner. Por meio do laço de repetição while tendo a condição de nota ser menor que 0 ou maior que 10, vai ser impresso no console Nota Inválida! Digite novamente, e em seguida permitir que digite novamente uma nota.
+*Exercício 2 Nota - É criada a variável int nota que recebe o valor por meio da classe Scanner. Por meio do laço de repetição while tendo a condição de nota ser menor que 0 ou maior que 10, vai ser impresso no console Nota Inválida! Digite novamente, e em seguida permitir que digite novamente uma nota.
+
+
+
+*Exercício 3 Maior e media - São criadas as variáveis int numero, contador, maiorNumero e soma.  É utilizado um laço de repetição do-while, onde sera solicitado que informe um numero por meio da classe Scanner. A variavel sova vai receber o valor de numero mais soma, utilizando do if será verificado se o numero atual e maior que o maiorNumero, caso seja o maiorNumero vai receber o atual numero. A cada numero o contador vai ser somado a um. O laço de repetição será finalizado quando o contador for menor que 5. Por final sera impresso a media dos números e informado o maior numero informado.
