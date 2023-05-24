@@ -16,6 +16,6 @@ Exercícios :
 
 *Exercício 3 Números Aleatórios - É criado um array de inteiros denominado números aleatórios tendo um tamanho de 20 números. Dentro de um fori a variável int numero recebe o valor da classe random limitado ate o numero 100. Por meio de um for vão ser demonstrados os números aleatórios e por outros os números sucessores que são os números aleatórios +1 e os antecessores que são eles -1.
 
-
-
 *Exercício 4 Arrays multidimensionais - É criado um arrays  multidimensional de 4x4 recebendo valores aleatórios da class Random utilizando dois for um numerando o primeiro grupo e o outro para o segundo grupo de números. Em seguida e utilizado outro for para imprimir os valorem em formato de matriz.
+
+*Exercício 4 Pares e Impares - É solicitado que o usuário digite a quantidade de números avaliados no console, em seguida o usuário vai digitar o valor de cada numero ate atingir a quantidade que ele pediu inicialmente. Será impresso no console a quantidade de números pares e a quantidade de números impares .
