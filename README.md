@@ -20,6 +20,6 @@ Exercícios :
 
 *Exercício 4 Pares e Impares - É solicitado que o usuário digite a quantidade de números avaliados no console, em seguida o usuário vai digitar o valor de cada numero ate atingir a quantidade que ele pediu inicialmente. Será impresso no console a quantidade de números pares e a quantidade de números impares .
 
-
-
 *Exercício 5 Tabuada - E solicitado que digite no console o valor da tabuada desejada, Em seguida por meio de um laço de repetição fori vai ser impresso os valores respectivos a tabuada ate 10.
+
+*Exercicio5 Fatorial - E solicitado um valor para ser fatorado, por meio de um fori o valor vai ser subtraído em -1 em cada repetição, dentro de cada repetição os valores vão se multiplicando .
