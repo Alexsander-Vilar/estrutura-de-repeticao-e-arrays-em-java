@@ -19,3 +19,7 @@ Exercícios :
 *Exercício 4 Arrays multidimensionais - É criado um arrays  multidimensional de 4x4 recebendo valores aleatórios da class Random utilizando dois for um numerando o primeiro grupo e o outro para o segundo grupo de números. Em seguida e utilizado outro for para imprimir os valorem em formato de matriz.
 
 *Exercício 4 Pares e Impares - É solicitado que o usuário digite a quantidade de números avaliados no console, em seguida o usuário vai digitar o valor de cada numero ate atingir a quantidade que ele pediu inicialmente. Será impresso no console a quantidade de números pares e a quantidade de números impares .
+
+
+
+*Exercício 5 Tabuada - E solicitado que digite no console o valor da tabuada desejada, Em seguida por meio de um laço de repetição fori vai ser impresso os valores respectivos a tabuada ate 10.
